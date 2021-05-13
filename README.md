@@ -1,5 +1,5 @@
-# restconfClientInterface
-Technology specific augmentation to the LayerProtocol class for RESTCONF Clients.
+# operationClientInterface
+Technology specific augmentation to the LayerProtocol class for Operation Clients.
 
 ### [1.0.0-tsi.d.t](../../tree/tsi)
 - Rudimentary model for Telefonica Germany internal use
